@@ -1,4 +1,4 @@
-# OracleApps2GDriveSync : Integrate Oracle Applications with Google Drive
+# OracleApps2GDriveSync
 
 OracleApps2GDriveSync is an Utility that integrates outputs of Oracle Applications' Concurrent Programs/Requests with Google Drive
 
